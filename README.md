@@ -63,10 +63,19 @@ The primary objective of this analysis is to:
 ---
 
 ## 📁 Dashboard Preview
+## Data Model
+![Dashboard Preview](https://github.com/user-attachments/assets/13824ee8-4c85-4095-b3e9-025e99693395)
+## Revenue Page
+![Dashboard Preview](https://github.com/user-attachments/assets/15b285e7-0068-461e-8454-be34dbceb63a)
+## User Page
+![Dashboard Preview](https://github.com/user-attachments/assets/e83c190e-b3cf-48ff-8b37-135378eeac23)
+## Plan Analysis
+![Dashboard Preview](https://github.com/user-attachments/assets/d9152018-ddd6-42a5-9366-2f36f4f78749)
 
 
 
----
+
+
 
 ## 🤝 Acknowledgments
 
